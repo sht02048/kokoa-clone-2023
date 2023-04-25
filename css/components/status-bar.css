@@ -5,6 +5,7 @@
   position: fixed;
   width: 100%;
   box-sizing: border-box;
+  top: 0;
 }
 
 .status-bar__column:first-child span {

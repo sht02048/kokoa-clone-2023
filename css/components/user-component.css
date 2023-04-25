@@ -65,3 +65,28 @@
   align-items: center;
   font-size: 12px;
 }
+
+.user-component__row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.user-component__row div {
+  top: 8px;
+  position: absolute;
+  left: 148px;
+  color: #ff6229;
+  font-size: 18px;
+}
+
+.user-component__subtitle-more {
+  color: rgba(0, 0, 0, 0.25);
+}
+
+.user-component__column-message {
+  font-size: 35px;
+  color: black;
+}
