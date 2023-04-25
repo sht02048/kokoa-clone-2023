@@ -90,3 +90,16 @@
   font-size: 35px;
   color: black;
 }
+
+.user-component-reddot {
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  background-color: #ff6229;
+  border-radius: 50%;
+  color: white;
+  font-weight: 600;
+}
